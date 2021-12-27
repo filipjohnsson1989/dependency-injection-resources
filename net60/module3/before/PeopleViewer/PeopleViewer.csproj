@@ -11,6 +11,7 @@
 	<ItemGroup>
 	  <ProjectReference Include="..\PeopleViewer.Common\PeopleViewer.Common.csproj" />
 	  <ProjectReference Include="..\PeopleViewer.Presentation\PeopleViewer.Presentation.csproj" />
+	  <ProjectReference Include="..\PeopleViewer.View\PeopleViewer.View.csproj" />
 	</ItemGroup>
 
 </Project>

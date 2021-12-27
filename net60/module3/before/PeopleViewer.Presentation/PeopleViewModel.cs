@@ -7,7 +7,7 @@ namespace PeopleViewer.Presentation;
 
 public class PeopleViewModel : INotifyPropertyChanged
 {
-    protected ServiceReader DataReader;
+    protected IPersonReader DataReader; //Dependency
 
     private IEnumerable<Person> _people = new List<Person>();
 
@@ -17,14 +17,17 @@ public class PeopleViewModel : INotifyPropertyChanged
         set { _people = value; RaisePropertyChanged(); }
     }
 
-    public PeopleViewModel()
+    // Dependency Inversion Principle
+    // The view model is no longer responsible for
+    // getting or managing the lifetime of the dependency.
+    public PeopleViewModel(IPersonReader dataReader) //Inject the dependency using the constructor
     {
-        DataReader = new ServiceReader();
+        DataReader = dataReader; //Inject the dependency using the constructor
     }
 
     public void RefreshPeople()
     {
-        People = DataReader.GetPeople();
+        People = DataReader.GetPeople(); //Dependency
     }
 
     public void ClearPeople()
