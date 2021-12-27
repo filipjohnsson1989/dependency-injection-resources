@@ -2,15 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\net60",
-    "\\net60\\module2\\before",
-    "\\net60\\module2\\before\\PersonDataReader.Service",
-    "\\net60\\module3",
-    "\\net60\\module3\\before",
-    "\\net60\\module3\\before\\PeopleViewer",
-    "\\net60\\module3\\before\\PeopleViewer.Common",
-    "\\net60\\module3\\before\\PeopleViewer.Presentation",
-    "\\net60\\module3\\before\\PersonDataReader.Service"
+    "\\net60\\module6",
+    "\\net60\\module6\\before",
+    "\\net60\\module6\\before\\PeopleViewer.Presentation.Tests"
   ],
-  "SelectedNode": "\\net60\\module3\\before\\PeopleViewer\\App.xaml.cs",
+  "SelectedNode": "\\net60\\module6\\before\\DependencyInjection.sln",
   "PreviewInSolutionExplorer": false
 }

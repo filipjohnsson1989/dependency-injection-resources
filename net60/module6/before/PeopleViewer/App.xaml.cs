@@ -1,8 +1,6 @@
 ﻿using PeopleViewer.Presentation;
-using PersonDataReader.CSV;
 using PersonDataReader.Decorators;
 using PersonDataReader.Service;
-using PersonDataReader.SQL;
 using System.Windows;
 
 namespace PeopleViewer;

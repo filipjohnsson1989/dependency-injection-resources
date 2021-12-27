@@ -55,7 +55,27 @@
       "ProjectGuid": "5433a9ed-dad5-4a44-bc30-5d83afce03e5",
       "DisplayName": "PersonDataReader.CSV.Test",
       "ColorIndex": 10
+    },
+    "95759d76-1de4-4e7c-adc2-2e5d080a388d": {
+      "ProjectGuid": "95759d76-1de4-4e7c-adc2-2e5d080a388d",
+      "DisplayName": "PeopleViewer.Presentation.Tests",
+      "ColorIndex": 11
+    },
+    "469f3350-8754-40f3-a728-de6842cbcf39": {
+      "ProjectGuid": "469f3350-8754-40f3-a728-de6842cbcf39",
+      "DisplayName": "PersonDataReader.CSV.Tests",
+      "ColorIndex": 12
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "498b7d4d-be89-47f8-bcc5-cda8c82cb9a2": {
+      "ProjectGuid": "498b7d4d-be89-47f8-bcc5-cda8c82cb9a2",
+      "DisplayName": "Tets.Tests",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 14
 }
