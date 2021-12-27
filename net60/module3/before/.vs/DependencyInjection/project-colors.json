@@ -25,7 +25,12 @@
       "ProjectGuid": "dd921e8c-99f2-46da-99c8-2f9afe26a7e8",
       "DisplayName": "People.Service",
       "ColorIndex": 4
+    },
+    "5ac8c5e3-8041-47bb-b19b-7dbee8efc4c3": {
+      "ProjectGuid": "5ac8c5e3-8041-47bb-b19b-7dbee8efc4c3",
+      "DisplayName": "PeopleViewer.View",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }
