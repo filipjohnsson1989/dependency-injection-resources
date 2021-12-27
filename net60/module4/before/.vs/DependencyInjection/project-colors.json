@@ -45,7 +45,22 @@
       "ProjectGuid": "63c4d46e-4885-49d9-b889-b32d7d2eec3c",
       "DisplayName": "PersonDataReader.Decorators",
       "ColorIndex": 8
+    },
+    "b4cff561-3f19-4846-952f-1edcda217d59": {
+      "ProjectGuid": "b4cff561-3f19-4846-952f-1edcda217d59",
+      "DisplayName": "PersonDataReader.CSV",
+      "ColorIndex": 9
+    },
+    "9d7ee948-b9c0-4aac-bdb1-018ab18f2aad": {
+      "ProjectGuid": "9d7ee948-b9c0-4aac-bdb1-018ab18f2aad",
+      "DisplayName": "PersonDataReader.SQL",
+      "ColorIndex": 10
+    },
+    "8a6a7dcf-bd91-4fb2-ba77-f9fa7e17d633": {
+      "ProjectGuid": "8a6a7dcf-bd91-4fb2-ba77-f9fa7e17d633",
+      "DisplayName": "PersonDataReader.Decorators",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 9
+  "NextColorIndex": 12
 }
